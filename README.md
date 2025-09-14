@@ -22,5 +22,5 @@ It allows access to packages not available in the official repositories by compi
 - [yay GitHub](https://github.com/Jguer/yay)
 
 ---
-Made by: **Lucas Bellucci Almendra**  
-_@thematrixbunny_
+Made by: **Lucas B. Almendra**  
+
